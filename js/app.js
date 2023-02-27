@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL_house_canvas.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL_add_webglInput.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
