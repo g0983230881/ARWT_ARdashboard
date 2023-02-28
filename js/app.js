@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL_Sweetcard_with_keyboardClass.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL_Sweetcard.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
